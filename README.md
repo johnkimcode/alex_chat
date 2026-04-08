@@ -33,8 +33,8 @@ Android
 
 
 
-**Note:** If you are on Windows, make sure you enable "add to path" option when installing python
-For Mac and mobile install python normally(For android use Termux app from PlayStore,separate tutorial available
+**Note:** If you are on Windows, make sure you enable "add to path" option when installing python. 
+
 
 1. Extract the tool
 
