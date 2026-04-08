@@ -1,12 +1,10 @@
-# alex_chat
+**AlexChat v28 (Telegram fake Chat Script)**
+
 Alex chat is new telegram marketing tool to create a fake chats on your group that looks realistic, using multiple telegram accounts and runs 24/7 in your group. You can  write your own chats in a text file or scrap chats from other tg groups. It also has livecloner,  to clone Telegram chats from any group to your own group in realtime(exact duplicate)
 
 
 For License Contact Telegram https://t.me/web3_stop or Purchase license directly on  https://shoppy.gg/product/9MJ4RxA
 
-
-
-**AlexChat v28 (Telegram fake Chat Script)**
 
 Very intelligent telegram chatting script to create fake chat on your group. 
 Scrap chats from a competitor group or write your own chats. 
